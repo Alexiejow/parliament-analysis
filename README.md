@@ -1,4 +1,4 @@
-# Exploratory analysis of the Polish parliamentary data and politicians' Twitter data
+# Exploratory analysis of the Polish parliament members and their Twitter data
 
 ### Project overview:
 1. Scraping parliamentary data using Beautiful Soup
