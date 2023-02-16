@@ -6,6 +6,7 @@
 3. Using Twitter API to collect profile information and Tweets from politicans
 4. Exploratory analysis of the data including age, education level, party affiliation, vote participation, number of Twitter followers etc.
 5. Linear regression using OLS from statsmodels run to test for correlations
+6. Wordcounts, cleaning, and stop-word removal run across the corpora of last 100 Tweets of each politician to find the most used phrases
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/32062967/219373731-1f8b2974-1244-4a4c-a1ce-f7a70beeae34.png">
 
