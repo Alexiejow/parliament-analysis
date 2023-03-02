@@ -13,7 +13,7 @@
 ## Project details
 
 ### Data 
-he above dataframe consists of data collected on 1) governmental website of the parliament and 2) Twitter, via tweepy API.
+The above dataframe consists of data collected on 1) governmental website of the parliament and 2) Twitter, via tweepy API.
 Governmental website data includes politicians name, gender (binarised - calculated from the last letter of the name), party, role in their party, constituency, number of votes they got in last parliamentary election, previous terms as member of parliament, number of previous terms, date of birth, age, city of birth, education level, (binary) has_higher_education indicator, profession outside of government, number of parliamentary speeches, link to their speeches, percentage of parliamentary votes they took part in, link to their specific votes.
 Twitter data includes, their nickname (handle), whether they are verified (that is everyone whose twitter account was found and saved), number of tweets, the last 100 tweets in one string, the most popular word in their tweets, number of instances of the most popular word, number of instances of the word ‘pis’ - the most popular word overall
 
